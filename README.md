@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sibwaze
-- 👀 I’m interested in hiring IT specialists, programming
-- 🌱 I’m currently learning javascript, html, css
+- 👀 I’m interested in hiring IT specialists
 - 📫 How to reach me: t.me/sibwase
 
 <!---
